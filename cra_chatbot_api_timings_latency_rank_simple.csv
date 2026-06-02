@@ -1,0 +1,101 @@
+rank,original_number,status,question,answer_token_est,time_seconds,duration_ms
+1,46,200,What rental expenses can I deduct?,410,12.667,12667
+2,40,200,When are payroll remittances due?,389,12.022,12022
+3,74,200,How do I use NETFILE?,313,11.507,11507
+4,21,200,How do I apply for the disability tax credit?,374,11.089,11089
+5,75,200,What tax software is certified by CRA?,364,11.017,11017
+6,24,200,Can I claim home office expenses?,316,10.917,10917
+7,44,200,How do I report investment income?,382,10.629,10629
+8,57,200,How do I object to a CRA assessment?,372,10.566,10566
+9,33,200,How do I register for a business number?,355,10.512,10512
+10,49,200,How do I report the sale of my home?,408,10.511,10511
+11,96,200,How do I claim tuition tax credits?,320,10.297,10297
+12,62,200,How do I apply for child and family benefits?,291,10.208,10208
+13,65,200,How do I become an executor for tax purposes?,308,10.051,10051
+14,58,200,How do I file a notice of objection?,377,10.017,10017
+15,36,200,How do I file a GST/HST return?,380,9.878,9878
+16,37,200,How can I close a CRA business account?,330,9.691,9691
+17,63,200,How do I update marital status with CRA?,268,9.646,9646
+18,52,200,What is the luxury tax?,224,9.535,9535
+19,4,200,How do I register for CRA My Account?,330,9.250,9250
+20,60,200,How do I use Submit Documents in My Account?,356,9.231,9231
+21,53,200,How do I get help with tax debt?,199,9.149,9149
+22,82,200,How do I change my name with CRA?,371,9.030,9030
+23,97,200,How do I transfer tuition credits?,390,8.954,8954
+24,56,200,What happens if I pay my taxes late?,265,8.919,8919
+25,30,200,How do I report employment income?,198,8.875,8875
+26,54,200,What payment arrangements does CRA offer?,271,8.794,8794
+27,64,200,How do I report a death to the CRA?,259,8.750,8750
+28,79,200,How do I request a reassessment?,377,8.748,8748
+29,71,200,How do I get proof of income from CRA?,222,8.657,8657
+30,84,200,What should I do if my SIN was compromised?,290,8.560,8560
+31,41,200,How do I get a copy of a T4 slip?,174,8.416,8416
+32,3,200,How can I change my address with the CRA?,239,8.414,8414
+33,45,200,How do I report rental income?,282,8.220,8220
+34,55,200,What happens if I file my taxes late?,203,8.129,8129
+35,66,200,How do I file taxes for a deceased person?,364,8.081,8081
+36,77,200,How do I amend a tax return?,241,8.075,8075
+37,83,200,How do I protect my CRA account?,287,8.022,8022
+38,50,200,What is the underused housing tax?,248,8.010,8010
+39,38,200,What is payroll remittance?,229,7.910,7910
+40,59,200,How can I submit documents to the CRA online?,284,7.903,7903
+41,31,200,How do I report self-employment income?,287,7.771,7771
+42,7,200,How do I make a payment to the CRA?,410,7.655,7655
+43,35,200,When does a business need to collect GST/HST?,254,7.640,7640
+44,86,200,What are CRA online mail notifications?,301,7.518,7518
+45,13,200,How do I authorize a representative with the CRA?,277,7.492,7492
+46,100,200,How do I claim the Canada training credit?,228,7.472,7472
+47,48,200,What is the principal residence exemption?,298,7.416,7416
+48,70,200,How do I repay COVID-19 benefit overpayments?,233,7.377,7377
+49,47,200,How do I report capital gains?,304,7.372,7372
+50,98,200,How do I claim charitable donations?,262,7.182,7182
+51,87,200,How do I sign up for email notifications from CRA?,242,7.083,7083
+52,32,200,What expenses can a small business deduct?,246,7.031,7031
+53,34,200,How do I register for GST/HST?,224,7.008,7008
+54,25,200,How do I claim moving expenses?,226,6.971,6971
+55,39,200,How do I open a payroll program account?,302,6.944,6944
+56,51,200,Who has to file an underused housing tax return?,199,6.824,6824
+57,99,200,How do I claim childcare expenses?,273,6.824,6824
+58,27,200,How do RRSP contributions affect taxes?,200,6.748,6748
+59,67,200,What is the climate action incentive payment?,256,6.698,6698
+60,43,200,How do I get a copy of a T5 slip?,158,6.598,6598
+61,11,200,What documents do I need to keep for my taxes?,259,6.595,6595
+62,1,200,How do I contact the CRA?,201,6.447,6447
+63,8,200,What is the Canada child benefit?,235,6.443,6443
+64,14,200,How can I cancel representative access?,262,6.205,6205
+65,23,200,How do I claim medical expenses on my tax return?,315,6.200,6200
+66,28,200,What is a TFSA?,242,6.178,6178
+67,81,200,How do I order a remittance voucher?,120,6.105,6105
+68,61,200,How do I contact CRA about benefits?,95,6.012,6012
+69,9,200,How do I apply for the GST/HST credit?,261,5.884,5884
+70,20,200,What is the disability tax credit?,255,5.741,5741
+71,73,200,What is Auto-fill my return?,209,5.700,5700
+72,78,200,What is ReFILE?,134,5.692,5692
+73,16,200,How do I unlock my CRA account?,162,5.663,5663
+74,92,200,How do I calculate instalment payments?,257,5.602,5602
+75,10,200,How can I update my direct deposit information?,223,5.595,5595
+76,22,200,What is the Canada workers benefit?,302,5.536,5536
+77,80,200,How do I find CRA forms and publications?,185,5.527,5527
+78,68,200,How do I check benefit payment dates?,149,5.525,5525
+79,42,200,What should I do if my T4 slip is wrong?,200,5.468,5468
+80,18,200,How can I tell if a CRA call is a scam?,242,5.337,5337
+81,95,200,What is form TD1 used for?,107,5.302,5302
+82,12,200,How long should I keep tax records in Canada?,203,5.260,5260
+83,88,200,How do I access My Business Account?,174,5.099,5099
+84,19,200,How do I report a tax scam?,160,5.098,5098
+85,90,200,How do I file corporation income tax?,303,5.002,5002
+86,85,200,How do I set up multi-factor authentication with CRA?,181,4.828,4828
+87,69,200,Why did my benefit payment change?,128,4.803,4803
+88,29,200,Are TFSA withdrawals taxable?,113,4.761,4761
+89,94,200,How do I reduce tax deducted at source?,160,4.704,4704
+90,17,200,What should I do if I suspect CRA fraud?,156,4.668,4668
+91,15,200,What is a CRA security code?,141,4.665,4665
+92,72,200,How do I print a proof of income statement?,84,4.223,4223
+93,26,200,What is the RRSP contribution deadline?,45,4.045,4045
+94,91,200,When is a corporation tax return due?,156,4.031,4031
+95,89,200,What is Represent a Client?,115,3.970,3970
+96,93,200,Who has to pay tax instalments?,170,3.944,3944
+97,6,200,What should I do if I lost my notice of assessment?,96,3.917,3917
+98,76,200,Can I file a previous year tax return online?,97,3.722,3722
+99,5,200,How can I check the status of my tax refund?,110,3.646,3646
+100,2,200,What is the deadline to file a personal tax return in Canada?,85,3.378,3378
